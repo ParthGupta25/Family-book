@@ -1,0 +1,64 @@
+  body {
+      background-image: url("https://i.gifer.com/GXhG.gif");
+      border-style: dotted;
+      border-color: gold;
+      padding: 15px;
+  }
+  
+  h4 {
+      color: chartreuse;
+      font-style: italic;
+      font-size: 25px;
+  }
+  
+  #hobby1 {
+      color: yellow;
+  }
+  
+  #hobby2 {
+      color: yellow;
+  }
+  
+  #hobby3 {
+      color: yellow;
+  }
+  
+  #hobby4 {
+      color: yellow;
+  }
+  
+  #hobby5 {
+      color: yellow;
+  }
+  
+  #hobby6 {
+      color: yellow;
+  }
+  
+  #routin {
+      color: darkturquoise;
+      font-style: oblique;
+      font-size: 35px;
+  }
+  
+  .elements:hover {
+      background-color: dodgerblue;
+      font-size: 30px;
+  }
+  
+  button {
+      cursor: pointr;
+  }
+  
+  h3 {
+      color: crimson;
+      font-size: 25px;
+      ;
+  }
+  
+  h1 {
+      color: yellow;
+      font-size: 40px;
+      font-style: italic;
+      font-family: cursive;
+  }
